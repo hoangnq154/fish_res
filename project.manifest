@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/hoangnq154/fish_res/main/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/hoangnq154/fish_res/main/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/hoangnq154/fish_res/main/",
-	"version" : "2",
+	"version" : "3",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -3437,7 +3437,7 @@
 			"md5": "c1498416af0bf99452005419052e7d4b"
 		},
 		"res/Lobby/Lobby.json": {
-			"md5": "f39823e019f3a3116b3af89b111ecc6c"
+			"md5": "91120c24ed8a4b17b618d69bf747bcc1"
 		},
 		"res/Lobby/login/guest.png": {
 			"md5": "e32a9dcc9db2b7eea0d94b5b5de6c34e"
@@ -3500,13 +3500,13 @@
 			"md5": "01d799ef7f62f3dea99edf9a6a0184ee"
 		},
 		"res/Lobby/ShopLayer.json": {
-			"md5": "4bf11be4faaae5ebc9df851e32d99787"
+			"md5": "1e4417db711ce1814bb21727e2c5620d"
 		},
 		"res/Lobby/TestLayer.json": {
 			"md5": "da0b2c2b430dffe79c7091c427104372"
 		},
 		"res/Lobby/UserInfo.json": {
-			"md5": "f0264a0a354e0e42c24a79b3cd294442"
+			"md5": "a37a429cbb37b2911f4f09dacc47ca5f"
 		},
 		"res/Lobby/vqmm/spin_material.plist": {
 			"md5": "6f46d1f88512a36128f15c0511edfe0d"
@@ -3920,7 +3920,7 @@
 			"md5": "d497a75b8a02e0a9d97497544b77d722"
 		},
 		"src/framework/plugins/Facebook.js": {
-			"md5": "8c8273357679577cfc12b7c96c035238"
+			"md5": "dfdf1022797457eb43cfd657ed20a074"
 		},
 		"src/framework/plugins/GameAnalytics.js": {
 			"md5": "72ff17030c488c09e4de94ef55100f49"
@@ -4118,10 +4118,10 @@
 			"md5": "8d9585a08b7a1f44779973c3a5d23165"
 		},
 		"src/Game/Scenes/Layers/Setting.js": {
-			"md5": "14609624fe0326b68c92ba9e520d361c"
+			"md5": "dec56f09a7ec02fb9bea4a54fd4a7c18"
 		},
 		"src/Game/Scenes/Layers/Shop.js": {
-			"md5": "02a37e43d83130f81d5af2e890cffdd6"
+			"md5": "601faff3d7203cf302d2c5510ec88295"
 		},
 		"src/Game/Scenes/Layers/UserInfo.js": {
 			"md5": "fa0afd8f59a3cb4d77325a6b88a7d120"
@@ -4130,7 +4130,7 @@
 			"md5": "986643c3fbc95441661696e30decd0b1"
 		},
 		"src/Game/Scenes/LoginScene.js": {
-			"md5": "4208d862d2bfaf0e2c4c46c6b4d925e2"
+			"md5": "6d048fb768f1545364b2ac6de8b47cba"
 		},
 		"src/Game/Scenes/VQMM.js": {
 			"md5": "6d7b8211e522917147da50d80add0ceb"
@@ -4145,7 +4145,7 @@
 			"md5": "ea169f5d18b58dd77f46607b7ac76ebb"
 		},
 		"src/resource.js": {
-			"md5": "18192b48e3aae3bf8be108a9972b9af0"
+			"md5": "6126b40d4130396be14a609185ef2057"
 		},
 		"src/Test/TestLayer.js": {
 			"md5": "f1dee230d71251ce6bd6b1024790e661"
