@@ -8,13 +8,16 @@
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
-			"md5": "1bb1ed8e57d900694fdd7f19dbd63e7b"
+			"md5": "6c5ed2313656a33c3d0c5efa326ce4ae"
 		},
 		"main.js": {
-			"md5": "16f81bef47863ee8858ea1004b9e1f8e"
+			"md5": "d3791a843748bf2d16dc4db0cf57b8e6"
 		},
 		"project.json": {
 			"md5": "bd0172e7997196c6a2f24e4a2453bf29"
+		},
+		"res/.DS_Store": {
+			"md5": "73f06ad323b1b6a93946e0cabd9ce2a9"
 		},
 		"res/CoreData/Materials/DefaultNoTex.mat": {
 			"md5": "3d4b10add7374f267e9000567d56e2df"
@@ -2620,39 +2623,6 @@
 		"res/Fish/pointer.png": {
 			"md5": "0925634d2ae364c9dcf13a6ac2133619"
 		},
-		"res/Fish/shaders/depth.frag": {
-			"md5": "60eb1c867b7618141771fee1bfd19350"
-		},
-		"res/Fish/shaders/depth.vert": {
-			"md5": "83a1bed061632f94a732c5b8d65de390"
-		},
-		"res/Fish/shaders/diffuse.frag": {
-			"md5": "f94685cfd94882031fe193539fbb363d"
-		},
-		"res/Fish/shaders/diffuse.vert": {
-			"md5": "2c08457edbf53f4f4aa7176281e55fe7"
-		},
-		"res/Fish/shaders/light.frag": {
-			"md5": "a5a8220c7fa05e0355ce4b5661c28c12"
-		},
-		"res/Fish/shaders/normal_mapping.frag": {
-			"md5": "2d3d8b5f5eb79e0bee379cd66dbd3771"
-		},
-		"res/Fish/shaders/normal_mapping.vert": {
-			"md5": "1b625323590dfe6f4fc128879c96ff43"
-		},
-		"res/Fish/shaders/tooncaustics.frag": {
-			"md5": "2362482e8d3d0b5f6450aab03444ea14"
-		},
-		"res/Fish/shaders/tooncaustics.vert": {
-			"md5": "4427320637f0fff0875657b978e9d33b"
-		},
-		"res/Fish/shaders/water_frag.txt": {
-			"md5": "5385c977e22e59344e4c784dc92951da"
-		},
-		"res/Fish/shaders/water_vert.txt": {
-			"md5": "aa04bb58799a50975fc737964619c1ee"
-		},
 		"res/Fish/sounds/3d_sound/boss.mp3": {
 			"md5": "c829d515dfc57ce0105080f15e22843b"
 		},
@@ -2777,22 +2747,13 @@
 			"md5": "e57603cb814dec369a8582f2b6569d93"
 		},
 		"res/Game/Shaders/vfs_SkinnedFishes.sc": {
-			"md5": "c9d105118b542d993a7ee22118e07ac8"
+			"md5": "a0bd8675b4f643d0b4b5468f94bb64b7"
 		},
 		"res/Game/Techniques/FishDiffSkinned.tnq": {
 			"md5": "4806250fc3cded56160666fb382a2c58"
 		},
 		"res/loading.js": {
 			"md5": "b1f7ee953c71ad777a985efbf7724194"
-		},
-		"res/Lobby/art_banca/webp (3).png": {
-			"md5": "ae2aaf47c367353e42e7dec016a52d9f"
-		},
-		"res/Lobby/art_banca/webp (4).png": {
-			"md5": "2b6498b65b5786df26e6ffe69b513495"
-		},
-		"res/Lobby/art_banca/webp.png": {
-			"md5": "218e4fa3b231a1dae2117374ff6e3a85"
 		},
 		"res/Lobby/avatar/1.png": {
 			"md5": "238cf599d909448c9458e6f77061db09"
@@ -2829,357 +2790,6 @@
 		},
 		"res/Lobby/avatar/9.png": {
 			"md5": "533c6dd51b4e462b7a2d3b8988d66d88"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/avatarDefault0.png": {
-			"md5": "87a7c8e7869ac1efc355920808449496"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/avatarDefault1.png": {
-			"md5": "87a7c8e7869ac1efc355920808449496"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/avatarDefault2.png": {
-			"md5": "87a7c8e7869ac1efc355920808449496"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/avatarDefault3.png": {
-			"md5": "87a7c8e7869ac1efc355920808449496"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/avatarDefault4.png": {
-			"md5": "87a7c8e7869ac1efc355920808449496"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/BGNotifyGame.png": {
-			"md5": "5be521c9a7213f9f887ef4b2785e5e07"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/CoinWin0.png": {
-			"md5": "221aa8b53f1d7b390ea8745c1c148627"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/CoinWin1.png": {
-			"md5": "2253ff6ae1ed207d4669facf69c8391a"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/CoinWin2.png": {
-			"md5": "3fcbd25d344a30898efcea7580d6e799"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/CoinWin3.png": {
-			"md5": "76ac3635aadb5dbe80be193407b823f8"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/CoinWin4.png": {
-			"md5": "60e19c5f096efd27aca4705261c7da13"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/CoinWin5.png": {
-			"md5": "faeecc98812d9d000711533aae00fef7"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/CoinWin6.png": {
-			"md5": "f5ad9b0b094050a477a526c1cc302097"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/CoinWin7.png": {
-			"md5": "d8018a656db156e2ff17ad7b83f85f84"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/CoinWin8.png": {
-			"md5": "221aa8b53f1d7b390ea8745c1c148627"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/IconCoin.png": {
-			"md5": "7dfd4f96605c22eeaf2357dd700960e6"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/iconCoinAvatar.png": {
-			"md5": "0692d14fe68a531a63900e426f1f1db1"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/iconCoinAvatarSilver.png": {
-			"md5": "060d9706fe3014eaa40b88e35d999c6f"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/IconPeople.png": {
-			"md5": "44255f65ceb50695b303db78bd3bed26"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasBanCaGeneralPack0/LineMenu.png": {
-			"md5": "52a6a51eadad943486cfb39b41b01da3"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BgMenuJackpot.png": {
-			"md5": "3f98da3fe43c9238c5f241a06c95ff5a"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnBackToLobbyDown.png": {
-			"md5": "8d72d288de80bb07a0f81116f7cf2172"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnBackToLobbyHover.png": {
-			"md5": "1c652fdf284e655066963ce9e55d5eff"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnBackToLobbyUp.png": {
-			"md5": "720c5f6f610b9d32ca85599acbf7edd8"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/btnCompleteDisable.png": {
-			"md5": "8d31bd6ba1f8cf88fdbeb9f7143ba133"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/btnCompleteUp.png": {
-			"md5": "ba7f267ec9e69592d89e7e3f02367508"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/btnGuideBonusGame_DOWN.png": {
-			"md5": "d1338e9e5c5c202763f868bc9cd61477"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/btnGuideBonusGame_HOVER.png": {
-			"md5": "c809cf1b24e9031cf85bf540a8451e0a"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/btnGuideBonusGame_UP.png": {
-			"md5": "3cfda66389ae87a8cb00cf7f03abba6a"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnMenuJackpotHover.png": {
-			"md5": "145243417a42928105bf5b21e86f7bf4"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnMenuJackpotUp.png": {
-			"md5": "f8fe2c32221781b74f04e1bbf828d8f2"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnOpenMenu_DOWN.png": {
-			"md5": "eed0ea2b5864f94811884ec642452808"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnOpenMenu_HOVER.png": {
-			"md5": "57a0956c2fa0548a9c853d7b19387749"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnOpenMenu_UP.png": {
-			"md5": "17bc03896402936831904974d1c6fa42"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnPage.png": {
-			"md5": "debbf84cc3542caacea866caa0960a50"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/btnReceiveUp.png": {
-			"md5": "86f17bfd231e911b27905bc2d51c559e"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnRewardValue_DOWN.png": {
-			"md5": "e02e3572ff77ad2535a4986f2b921880"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnRewardValue_HOVER.png": {
-			"md5": "098012de6de29738bc9c8f7cf2c55c32"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnRewardValue_UP.png": {
-			"md5": "cef3e881e4aad25fd7e502863f82f34b"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnSoundNotifyGame.png": {
-			"md5": "c140d9b9121e1aec60e562592511b502"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnSoundOffNotifyGame.png": {
-			"md5": "099f0428a343f107ab621e79df04c651"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnSoundOffUp.png": {
-			"md5": "0e03440534d94699d748c7a8630067af"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnSoundOnDown.png": {
-			"md5": "fd28f55c652bab108219bf0a64075c10"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnSoundOnHover.png": {
-			"md5": "5a664caef4a76d0aab3bcab200e65e30"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnSoundOnUp.png": {
-			"md5": "3c9936cd5b67d804470da8371637d312"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnZoomInDown.png": {
-			"md5": "9bbc6267154de04e07f79b0ace19dad8"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnZoomInHover.png": {
-			"md5": "f0ac7232efd5f67522c95bb2bf1b3b16"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnZoomInUp.png": {
-			"md5": "fec35d2883292babb427f42d9ccc3aab"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnZoomOutDown.png": {
-			"md5": "c9165ff7a1afe5845008d973caaa83a6"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnZoomOutHover.png": {
-			"md5": "4f6d4f01be2eb2393af57a610ea11e35"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/BtnZoomOutUp.png": {
-			"md5": "14e46339606939ac82d313054c898920"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/IconGrand.png": {
-			"md5": "42d4ceb1afbd274a97ad7064173dc109"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/iconLoa.png": {
-			"md5": "d259fdc6d8081d93991190a568fb8715"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/IconMajor.png": {
-			"md5": "7218915776b479b6c62f5bd6c4f5c330"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/IconMinor.png": {
-			"md5": "8a50d07004c66e6ad76ce49072fd65f0"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/Light.png": {
-			"md5": "7c29c157873a05947db56ed38e81967e"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/lockGame.png": {
-			"md5": "2e614393fbf6be1a997bce123e4a1926"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasButtonPack0/Notification.png": {
-			"md5": "e1e61cef9fe83b9c7e16530e7ee6b190"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasCoinWinOtherUserPack0/CoinWinOtherUser0.png": {
-			"md5": "4248be12e20335369a77b3efb51e8c2f"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasCoinWinOtherUserPack0/CoinWinOtherUser1.png": {
-			"md5": "5d2a1e8cb5e3bbeb49c49389e01846ad"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasCoinWinOtherUserPack0/CoinWinOtherUser2.png": {
-			"md5": "39e8d0a8c4475172cac490966f53b6fc"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasCoinWinOtherUserPack0/CoinWinOtherUser3.png": {
-			"md5": "6e08d950f3b8b0669367c1b0475f3725"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasCoinWinOtherUserPack0/CoinWinOtherUser4.png": {
-			"md5": "b773a0c931131e1500f8d17d53505879"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasCoinWinOtherUserPack0/CoinWinOtherUser5.png": {
-			"md5": "362d28e05facb264339b6383921af169"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasCoinWinOtherUserPack0/CoinWinOtherUser6.png": {
-			"md5": "f005915ae4385c4ac4ac509036815e77"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasCoinWinOtherUserPack0/CoinWinOtherUser7.png": {
-			"md5": "f3d8ec0085bb5bc1805df741b0154472"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasCoinWinOtherUserPack0/CoinWinOtherUser8.png": {
-			"md5": "4248be12e20335369a77b3efb51e8c2f"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasFilpImagePack0/bgBotLeft.png": {
-			"md5": "ee28a8a02b902e589f5a86b021998fa5"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasFilpImagePack0/bgTopLeft.png": {
-			"md5": "4be476037d3bf25bf9c558a2f0ad566b"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLevelPack0/BGCoin.png": {
-			"md5": "2f6855c105fec4697484c3e74914afe9"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLevelPack0/BgLevelUp.png": {
-			"md5": "dc0853b2557e95ef37e4fae7b70ee1aa"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLevelPack1/IconCoinLV.png": {
-			"md5": "fbd491789a64962e68fb5bb34637ca9c"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLevelPack1/IconLevel.png": {
-			"md5": "4a7a2430eae1dbb4bef0d51542a126d9"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLevelPack1/Level10Icon.png": {
-			"md5": "7d3e891ec598dbf45a754913e2d75bfc"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLevelPack1/Level1Icon.png": {
-			"md5": "44956b34dabca933e5097a9b7cbb9de5"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLevelPack1/Level20Icon.png": {
-			"md5": "8d9ba6b111ec5e580e681809e4489a33"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLevelPack1/Level30Icon.png": {
-			"md5": "613351986d887f5c3edf30f5a2da3a8d"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLevelPack1/Level40Icon.png": {
-			"md5": "7b8ee4bc5e2b6b04c541a587cfb047b6"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLevelPack1/Level50Icon.png": {
-			"md5": "7d362c83c34fa3f2d3c4958f6f7dd65c"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLevelPack1/LightLV.png": {
-			"md5": "1c4bac628c5e969339337eab2ae52fa4"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLoadingDefaultPack0/btnReload.png": {
-			"md5": "3ce0d179875285686b12188f38e1b6ea"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLoadingDefaultPack0/icon18Plus.png": {
-			"md5": "bc1b27593fd27c1258fd189faf577a20"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLoadingDefaultPack0/iconProcess.png": {
-			"md5": "ff082a85e5bc71eb757509c34c64f820"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLoadingDefaultPack0/LoadingBarBGDefault.png": {
-			"md5": "f2d5019e387d7b7e3d759bc2dbed0659"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLoadingDefaultPack0/LoadingBarProgressDefault.png": {
-			"md5": "558d3a834d33b39b6d0d3e0a7631ff66"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasLobbyHoYeahPack0/hoyeahNotify.png": {
-			"md5": "7cf348962c4a2524422d6ece6d5d1858"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/bg9PatchPopupRank.png": {
-			"md5": "b71723176b95a578c8f0291a7a0b4390"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/bgBase.png": {
-			"md5": "295bed246b17318740c72a81634789a5"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/bgContent.png": {
-			"md5": "43dfa3ca9a8f8d7906f95a15e34c78fa"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/bgItem.png": {
-			"md5": "f5692f3719b40407356c094e31634f26"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/bgNotify.png": {
-			"md5": "d331656db3d3b60571f51109a92aa5c9"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnBlack.png": {
-			"md5": "c12e2c6caa08e81c0bb6079d95bac63d"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnBlue.png": {
-			"md5": "06d1a2d9c6645c261a571fcfc92682fc"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnBuyNow.png": {
-			"md5": "d067ea3837e858269656639ff8f5e612"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnBuyShop.png": {
-			"md5": "9884167e03562d3f40b11c455dd53feb"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnBuyShopDisable.png": {
-			"md5": "a59b4ff6c7377e0e5d3da3db2d5abf1d"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnClose.png": {
-			"md5": "d3029b2bad3db84269be92ab139cd442"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnCloseRed.png": {
-			"md5": "8b6d020145d70a806e8cdcc6042c133d"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnColect.png": {
-			"md5": "8021f35f483fce3271d3de8d33d95fde"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnGold.png": {
-			"md5": "ebd7a7cf5597f903d8e91fcd4e0fb981"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnGreenDisable.png": {
-			"md5": "0dbfa69cdae5c9be6b38f4fbe838709f"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnHoyeah.png": {
-			"md5": "06d1a2d9c6645c261a571fcfc92682fc"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnHoyeahCancel.png": {
-			"md5": "ec467be39f37ebc73c400ef92ca1e22c"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnHoyeahDisable.png": {
-			"md5": "6e24936a4fe64eea7375255fc1c8c142"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/btnProfile.png": {
-			"md5": "3444e22323e646a15951bb8f64dcfeef"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/Coin.png": {
-			"md5": "aeb6045b4a719ea0daababc28709177f"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/HoYeahLine.png": {
-			"md5": "d2c0026e6c9b3bd6318fdee246be0edc"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/itemDefault.png": {
-			"md5": "4eb84fe8904907947186322790987f9e"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/Light.png": {
-			"md5": "d399e7e525b9c8a81de2430d929c6581"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/line.png": {
-			"md5": "dfc26d34363e537f6a30073a92498ab1"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/ovelayBase.png": {
-			"md5": "4e4cab8c8c6f35dae6c015ea0e16f40b"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/overlayItem.png": {
-			"md5": "40ee7f7123d16560d0742309d9e11afe"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/RedFishParticle0.png": {
-			"md5": "c1cbdbd1129c0c1d70b830bc649fa820"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupHoYeahPack0/titleItem.png": {
-			"md5": "bf29cef56fd98ee7a5829bb4383f9d31"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupPack0/bgscroll.png": {
-			"md5": "ee2ba69f55049ec030b0d68b6f6e4876"
-		},
-		"res/Lobby/BanCaLobbyAtlas/AtlasPopupPack0/thump.png": {
-			"md5": "4fde5f9f11b749aad3fd61076eed03bf"
-		},
-		"res/Lobby/BanCaLobbyAtlas/unpacker.py": {
-			"md5": "e598441b2f117c85c87d4b3dd15aca36"
 		},
 		"res/Lobby/coin/gold-tach-nen_0000_1.png": {
 			"md5": "c98f1c361eccdef37129ed0e6d11081e"
@@ -3232,6 +2842,9 @@
 		"res/Lobby/common/close.png": {
 			"md5": "baf42d22384fa21e40ce2361368f6bf2"
 		},
+		"res/Lobby/common/ic-18.png": {
+			"md5": "2842d2715a7c747f88fd24544ea67d68"
+		},
 		"res/Lobby/common/ico_drag.png": {
 			"md5": "d0a146b719b2d1b10d4ad04b4f7b0b4f"
 		},
@@ -3256,11 +2869,14 @@
 		"res/Lobby/Default/ImageFile.png": {
 			"md5": "d0498e271573e8d0c9e936263c570633"
 		},
+		"res/Lobby/Default/LoadingBarFile.png": {
+			"md5": "3df944717610536927b7c1dc643b2329"
+		},
 		"res/Lobby/Default/Sprite.png": {
 			"md5": "ce3f29c5fc1c05141ed539f795340599"
 		},
 		"res/Lobby/Dialog.json": {
-			"md5": "2f319d1b54ff364917af54d441047e21"
+			"md5": "96332c8d76d827c1371a4647ee7d40d8"
 		},
 		"res/Lobby/fonts/arial16.fnt": {
 			"md5": "7a8496356bfa115b4bdfdc2f66c8607e"
@@ -3271,209 +2887,155 @@
 		"res/Lobby/fonts/UTMSwissCondensedBold.ttf": {
 			"md5": "cb756e444c81c3490adfb9e6b540e2f5"
 		},
+		"res/Lobby/Home/avatar/home.png": {
+			"md5": "f6d8c54d6b50604ac17a9f3eea09e6ce"
+		},
+		"res/Lobby/Home/avatar/Rectangle 2.png": {
+			"md5": "d5f3d44ba58420916cc8f0f14d6d5e6f"
+		},
+		"res/Lobby/Home/avatar/Rectangle.png": {
+			"md5": "cbc0147cc16de12cd166eff6d385ede6"
+		},
+		"res/Lobby/Home/BG.png": {
+			"md5": "5b0be6887eacb449c12208df23d7ba1f"
+		},
+		"res/Lobby/Home/Btn/banca2D.png": {
+			"md5": "d48f81781f77df943240dda31b9820c1"
+		},
+		"res/Lobby/Home/Btn/banca3D.png": {
+			"md5": "5329490b237680284a7b7ad2cb32e13a"
+		},
+		"res/Lobby/Home/Btn/dau_truong.png": {
+			"md5": "53be448da98a7364417abfcb31bf161e"
+		},
+		"res/Lobby/Home/Btn/setting.png": {
+			"md5": "ffec20a16c8ef3f36228a586acc8cdd2"
+		},
+		"res/Lobby/Home/Btn/Spin.png": {
+			"md5": "42b15eed322c7495e11e317606579b14"
+		},
+		"res/Lobby/Home/IAP/demo.png": {
+			"md5": "51f38f00092937368b4ece21c816e7a5"
+		},
+		"res/Lobby/Home/IAP/IAP.png": {
+			"md5": "51b109122158e263f478286aa7bf8dc5"
+		},
+		"res/Lobby/Home/IAP/IAP1.png": {
+			"md5": "cfc602500faedae43eface90bf94dd51"
+		},
+		"res/Lobby/Home/IAP/IAP2.png": {
+			"md5": "574b3b5dc7a056b0840b7976a22231d6"
+		},
+		"res/Lobby/Home/IAP/IAP3.png": {
+			"md5": "85133a05e85ef227ded76f994e329f2e"
+		},
+		"res/Lobby/Home/IAP/IAP4.png": {
+			"md5": "295bccf9cef854a664292ffa79b62a81"
+		},
+		"res/Lobby/Home/IAP/IAP5.png": {
+			"md5": "c4f3871124e5dfdc0530b75858ef74aa"
+		},
+		"res/Lobby/Home/IAP/Popup.png": {
+			"md5": "7014dfa8a5790992db719a60d93a0b73"
+		},
+		"res/Lobby/Home/Lock/labal.png": {
+			"md5": "0b83194f717fb99c17ae83a8b4d9a07e"
+		},
+		"res/Lobby/Home/Lock/lock.png": {
+			"md5": "075be4d82319a019e62f86d2d43679cd"
+		},
+		"res/Lobby/Home/Lock/Rectangle.png": {
+			"md5": "8731ac2558353a60aa9e18b0686f0f3d"
+		},
+		"res/Lobby/Home/napIAP/9.000.000.png": {
+			"md5": "dba64ba1fa14a7056d90b59f1c5681e5"
+		},
+		"res/Lobby/Home/napIAP/bottom_bg.png": {
+			"md5": "243de44ba465fb4edb7b3f074c4a168c"
+		},
+		"res/Lobby/Home/napIAP/coin.png": {
+			"md5": "19e554de3169d89b2d688906952d5f3a"
+		},
+		"res/Lobby/Home/napIAP/IAP.png": {
+			"md5": "20087044214a99fd092120af108e9f26"
+		},
+		"res/Lobby/Home/napIAP/Rectangle.png": {
+			"md5": "c94e8d0351e897a1145f2d980de87c56"
+		},
+		"res/Lobby/Home/napIAP/webp copy 2 2.png": {
+			"md5": "7b47549d69bac8d9ac2d924eab75823c"
+		},
+		"res/Lobby/Home/napIAP/webp copy 2 3.png": {
+			"md5": "b7e0956b395ce3d96367392879b36e1d"
+		},
+		"res/Lobby/Home/napIAP/webp copy 2 4.png": {
+			"md5": "7b47549d69bac8d9ac2d924eab75823c"
+		},
+		"res/Lobby/Home/napIAP/webp copy 2 5.png": {
+			"md5": "b7e0956b395ce3d96367392879b36e1d"
+		},
+		"res/Lobby/Home/napIAP/webp copy 2.png": {
+			"md5": "b7e0956b395ce3d96367392879b36e1d"
+		},
+		"res/Lobby/Home/Setting/Checkbox.png": {
+			"md5": "d08a92b1186b513c0efca8fe5fbe4c6d"
+		},
+		"res/Lobby/Home/Setting/checked.png": {
+			"md5": "ba43a841deb18688bfde22b565bb6709"
+		},
+		"res/Lobby/Home/Setting/Close.png": {
+			"md5": "f7012cb78519607ca755afa5c118ff5a"
+		},
+		"res/Lobby/Home/Setting/Group.png": {
+			"md5": "9121b4edbbd0e5885b5e75cc193c3f1e"
+		},
+		"res/Lobby/Home/Setting/logout.png": {
+			"md5": "2ca57b333ae207323ebeaa3981643b62"
+		},
+		"res/Lobby/Home/Setting/Off.png": {
+			"md5": "90d3d00d5c0b37f45e91e4ccfa3d71a3"
+		},
+		"res/Lobby/Home/Setting/Popup.png": {
+			"md5": "f4018fd6add117e1dd31b198ed987f82"
+		},
+		"res/Lobby/Home/Setting/Rectangle.png": {
+			"md5": "3ee2d224a28022c8d461ea4842763eb8"
+		},
+		"res/Lobby/Home/Setting/setting.png": {
+			"md5": "de41eb1f046ab87eacc456e571b9fdb5"
+		},
+		"res/Lobby/Home/Splash/BG.png": {
+			"md5": "a6309094795e73d84d4057cbed2ce702"
+		},
+		"res/Lobby/Home/Splash/Loading/fish.png": {
+			"md5": "8941db8bcbf0451091850fd65f9967c1"
+		},
+		"res/Lobby/Home/Splash/Loading/Loading.png": {
+			"md5": "f1b8a227031586b6ad35e1931e4c0ee7"
+		},
+		"res/Lobby/Home/Splash/Loading/Rectangle.png": {
+			"md5": "93a960f57b42bce86aea7bda756dfd75"
+		},
+		"res/Lobby/Home/Splash/Login/apple.png": {
+			"md5": "3efebefd36977dae1f72b4895f51450d"
+		},
+		"res/Lobby/Home/Splash/Login/Guest.png": {
+			"md5": "ee30eda068a3153f97783d7a707d51d5"
+		},
+		"res/Lobby/Home/Splash/Login/Login FB.png": {
+			"md5": "0a740401adbce5c0f3132408b03ff61c"
+		},
+		"res/Lobby/Home/Splash/Login/Rectangle.png": {
+			"md5": "e6263a178c01fadf3d6cc411edad273e"
+		},
+		"res/Lobby/Home/Splash/Logo.png": {
+			"md5": "7c77f5cd770f4b067d65dbed05acb1f0"
+		},
 		"res/Lobby/Loading.json": {
-			"md5": "c4f270ee04c55961f1997d79073b41ae"
-		},
-		"res/Lobby/lobby/BarPercent3.png": {
-			"md5": "772f238fbac73bb1f3240c249ea1ba64"
-		},
-		"res/Lobby/lobby/bg-btn-deposit.png": {
-			"md5": "a36c75d6df85355183af64e0b568850b"
-		},
-		"res/Lobby/lobby/bg-btn-icon.png": {
-			"md5": "6224232a45bd98bbffd9e2791f3164da"
-		},
-		"res/Lobby/lobby/bg-dock.png": {
-			"md5": "fecb0b49f3cfd6ca677e07f7c1f864a1"
-		},
-		"res/Lobby/lobby/bg-footer.png": {
-			"md5": "e7cfed1cd2a01c6f1b720e8cfa9cda9c"
-		},
-		"res/Lobby/lobby/bg-header-left.png": {
-			"md5": "0a04ce4afe812ca72f92abe4d683413f"
-		},
-		"res/Lobby/lobby/bg-header.png": {
-			"md5": "2143580eb31efa5ef15990f7cef19e8a"
-		},
-		"res/Lobby/lobby/bg-item-left.png": {
-			"md5": "c4f17b1bf37627b80514d52057f8ec12"
-		},
-		"res/Lobby/lobby/bg-item-right.png": {
-			"md5": "1371476895731de07ca2fe1590ebb343"
-		},
-		"res/Lobby/lobby/bg-lobby.jpg": {
-			"md5": "ef25a6212bff9561f1ae70972304044e"
-		},
-		"res/Lobby/lobby/bg-room-2.png": {
-			"md5": "de245f51b3ea14ed1924458ca82f8577"
-		},
-		"res/Lobby/lobby/bg-shadow-btn-deposit.png": {
-			"md5": "a19218ef25b1dcefeae2c8c2f3ad17a7"
-		},
-		"res/Lobby/lobby/bg-title-1.png": {
-			"md5": "a33163e69c4a4bb6d8121335cbd0d7f9"
-		},
-		"res/Lobby/lobby/bg-title-2.png": {
-			"md5": "ab4250acfd83abd5f4b81672aeb354dc"
-		},
-		"res/Lobby/lobby/bg-title-4.png": {
-			"md5": "4525bd4cdff3d0eb5693b7ba467d971c"
-		},
-		"res/Lobby/lobby/bg-title-dock.png": {
-			"md5": "e1840687098a966749ddba83d4d468b1"
-		},
-		"res/Lobby/lobby/bg-title-left.png": {
-			"md5": "8d1ec92b7c22906523e2a4ee181e43fb"
-		},
-		"res/Lobby/lobby/bg-user-info.png": {
-			"md5": "4b607f7400ea58c50c8a0b8baba72b0c"
-		},
-		"res/Lobby/lobby/binh_dan.png": {
-			"md5": "d35319725f8c1a4e0b464ef0748cbc8b"
-		},
-		"res/Lobby/lobby/button-green.png": {
-			"md5": "7100680e785e510aa07ba9ec9af7d644"
-		},
-		"res/Lobby/lobby/button-yellow.png": {
-			"md5": "d87b05e115079d6567c076d8dd2f3b8d"
-		},
-		"res/Lobby/lobby/ButtonAndIcon_1.png": {
-			"md5": "1bbbb5f8297801b901c1c9c05c3a215b"
-		},
-		"res/Lobby/lobby/ButtonAndIcon_2.png": {
-			"md5": "bcf971869c7f562d3382c512818e4be7"
-		},
-		"res/Lobby/lobby/close-hover.png": {
-			"md5": "dfc7f38c7edbc28492a200fd5f9a91f2"
-		},
-		"res/Lobby/lobby/close.png": {
-			"md5": "5ae685d5a03eb60e5ac83273e325c176"
-		},
-		"res/Lobby/lobby/dai_gia.png": {
-			"md5": "8eb1d51be8e7635e0733573e1ea52e5f"
-		},
-		"res/Lobby/lobby/dau_truong.png": {
-			"md5": "aa0881004a8f3ac7555e7bbe4b9bcc3e"
-		},
-		"res/Lobby/lobby/default-avatar.jpg": {
-			"md5": "a6814ca683ea93a740b8348fda30b98f"
-		},
-		"res/Lobby/lobby/dot.png": {
-			"md5": "a076b7146c9c554e0427e8a5c8a7058e"
-		},
-		"res/Lobby/lobby/hai_vuong_ao_lang.png": {
-			"md5": "54981ee88049f6d2f62105bc223241d6"
-		},
-		"res/Lobby/lobby/hai_vuong_dai_duong.png": {
-			"md5": "8926c546b3e73c79e5443236f284395c"
-		},
-		"res/Lobby/lobby/hide-pass.png": {
-			"md5": "f7a8181ac5e43a48071f912431a787d8"
-		},
-		"res/Lobby/lobby/ic-18.png": {
-			"md5": "2842d2715a7c747f88fd24544ea67d68"
-		},
-		"res/Lobby/lobby/ic-coin.png": {
-			"md5": "d9e909added4a76f322bacd5db8dfb86"
-		},
-		"res/Lobby/lobby/ic-cursor.png": {
-			"md5": "06186e72205f1105aa22e60cb8eedba7"
-		},
-		"res/Lobby/lobby/ic-dock-cs.png": {
-			"md5": "04236b1ec1917d26415e2f7765f5046a"
-		},
-		"res/Lobby/lobby/ic-dock-event.png": {
-			"md5": "f710afea737a6d9a4f11d98096c3abad"
-		},
-		"res/Lobby/lobby/ic-dock-forum.png": {
-			"md5": "bf6322619c1aa5473bb6af2fe5fdc0e6"
-		},
-		"res/Lobby/lobby/ic-dock-mission.png": {
-			"md5": "e49109eb46239ecb5beb6e5bfdcf6e9e"
-		},
-		"res/Lobby/lobby/ic-download-android.png": {
-			"md5": "83261a9d0741d064f5512feb1944e07a"
-		},
-		"res/Lobby/lobby/ic-lock-game.png": {
-			"md5": "77cde0282ca856db1dc6c4d93ff8af3f"
-		},
-		"res/Lobby/lobby/ic-lucky-spin-vi.png": {
-			"md5": "26add9da818fc179e89b6832493619cc"
-		},
-		"res/Lobby/lobby/ic-mail.png": {
-			"md5": "7249ddb1a99aa0a5be171830f30d3974"
-		},
-		"res/Lobby/lobby/ic-register.png": {
-			"md5": "c9edd70b4588c85bc520a4f03d41a5f4"
-		},
-		"res/Lobby/lobby/ic-setting.png": {
-			"md5": "5f0d0e48a6592e4f15632279008300c7"
-		},
-		"res/Lobby/lobby/ic-speak.png": {
-			"md5": "804cdb2061c2bd4383122e0e7dad1f19"
-		},
-		"res/Lobby/lobby/ic-top-1.png": {
-			"md5": "1f900170a00f2011de1e682feee54b8e"
-		},
-		"res/Lobby/lobby/ic-top-2.png": {
-			"md5": "76f00186a11526eeac2f750bfd815f9d"
-		},
-		"res/Lobby/lobby/ic-top-3.png": {
-			"md5": "d53069bfc4c364632d30cc850aa61b38"
-		},
-		"res/Lobby/lobby/ic-user.png": {
-			"md5": "e181ff7ee48bed63d4c8354d09eca53b"
-		},
-		"res/Lobby/lobby/mini-game-637721354810003007.jpg": {
-			"md5": "17b395dc0a5e946f541a39ec731c8800"
-		},
-		"res/Lobby/lobby/phong_boss.png": {
-			"md5": "d8638b57977ddb037657c3d472f8ab4f"
-		},
-		"res/Lobby/lobby/reward_bk.png": {
-			"md5": "a3e8f7fd8b246655cc1809fb4a355d5a"
-		},
-		"res/Lobby/lobby/t-1.png": {
-			"md5": "c1498416af0bf99452005419052e7d4b"
+			"md5": "36ec5282e5efd0b418f57ded3dd5972d"
 		},
 		"res/Lobby/Lobby.json": {
-			"md5": "91120c24ed8a4b17b618d69bf747bcc1"
-		},
-		"res/Lobby/login/guest.png": {
-			"md5": "e32a9dcc9db2b7eea0d94b5b5de6c34e"
-		},
-		"res/Lobby/login/oL5c2.png": {
-			"md5": "46095f08b4fd27d2637725f7f103cb03"
-		},
-		"res/Lobby/login/Untitled-1.png": {
-			"md5": "27c548003b43fc52e33305bbf1a4af47"
-		},
-		"res/Lobby/LoginDaily.json": {
-			"md5": "8ace0c0d65ca9d1ccdaacf24a9f0b876"
-		},
-		"res/Lobby/MainLobby/3211518620a9871882581fa53a024a31.png": {
-			"md5": "c6acb34e26e9aeede3869056ede9a13d"
-		},
-		"res/Lobby/MainLobby/bancam8win.png": {
-			"md5": "4d43491e8746e85a400c63e17a4d3522"
-		},
-		"res/Lobby/MainLobby/bg_hesoca.png": {
-			"md5": "9d8307812b066267d1c45cc58fdeedd4"
-		},
-		"res/Lobby/MainLobby/ImgloadingBg.jpg": {
-			"md5": "90aaee07c7429232f17d7e6a0cdea0cf"
-		},
-		"res/Lobby/MainLobby/Untitled-1.png": {
-			"md5": "fc53ee3e9c2ebae0cc2539f152a21bdc"
-		},
-		"res/Lobby/MainLobby/Untitled-2.png": {
-			"md5": "4f54c610248214dfb7e5d0621079a731"
-		},
-		"res/Lobby/MainLobby/Untitled-3.png": {
-			"md5": "6eb4475248a3ee9d99d26f5d86e6682a"
-		},
-		"res/Lobby/ReWard.json": {
-			"md5": "29e9cb456d2561370fd1c1034aa04ac6"
+			"md5": "a4ede9d1f92d242eb545a7ebcbda1561"
 		},
 		"res/Lobby/SettingLayer.json": {
 			"md5": "5a4a8480227bb8bf8cc32e3825f95b0e"
@@ -3502,12 +3064,6 @@
 		"res/Lobby/ShopLayer.json": {
 			"md5": "1e4417db711ce1814bb21727e2c5620d"
 		},
-		"res/Lobby/TestLayer.json": {
-			"md5": "da0b2c2b430dffe79c7091c427104372"
-		},
-		"res/Lobby/UserInfo.json": {
-			"md5": "a37a429cbb37b2911f4f09dacc47ca5f"
-		},
 		"res/Lobby/vqmm/spin_material.plist": {
 			"md5": "6f46d1f88512a36128f15c0511edfe0d"
 		},
@@ -3515,7 +3071,7 @@
 			"md5": "f28a0b790ea96c0a36f3777445d8d3a1"
 		},
 		"res/Lobby/VQMMLayer.json": {
-			"md5": "7da1aaaab8eaa19a4cdc67cb5d0c8d71"
+			"md5": "72e2d5b485de4a904a8cee50ad13cba6"
 		},
 		"res/Lobby/Xoayxoay.json": {
 			"md5": "aab3246971cfcba330d6a714d016f672"
@@ -3869,7 +3425,7 @@
 			"md5": "a8cdb0eefca497a5ed04c2f859e0796f"
 		},
 		"src/framework/Framework.js": {
-			"md5": "7c037a6eb57493ce7397e0bffd333352"
+			"md5": "7665daa4264d5dc37e348280fffb4663"
 		},
 		"src/framework/gui/Avatar.js": {
 			"md5": "edfc51db66d2fb8e788419542cad6db3"
@@ -4127,7 +3683,7 @@
 			"md5": "fa0afd8f59a3cb4d77325a6b88a7d120"
 		},
 		"src/Game/Scenes/LobbyScene.js": {
-			"md5": "986643c3fbc95441661696e30decd0b1"
+			"md5": "17c302719cc5452a08e0603bbc1828d7"
 		},
 		"src/Game/Scenes/LoginScene.js": {
 			"md5": "6d048fb768f1545364b2ac6de8b47cba"
