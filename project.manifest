@@ -2876,13 +2876,16 @@
 			"md5": "ce3f29c5fc1c05141ed539f795340599"
 		},
 		"res/Lobby/Dialog.json": {
-			"md5": "96332c8d76d827c1371a4647ee7d40d8"
+			"md5": "6d4d68a84e8db7a5aeebea653d53f531"
 		},
 		"res/Lobby/fonts/arial16.fnt": {
 			"md5": "7a8496356bfa115b4bdfdc2f66c8607e"
 		},
 		"res/Lobby/fonts/arial16.png": {
 			"md5": "ea87caf15bb53c465a2f00ac02b41e38"
+		},
+		"res/Lobby/fonts/tahomabd.ttf": {
+			"md5": "45f081257d0306ecf70736a7a2ffcc66"
 		},
 		"res/Lobby/fonts/UTMSwissCondensedBold.ttf": {
 			"md5": "cb756e444c81c3490adfb9e6b540e2f5"
@@ -3029,13 +3032,13 @@
 			"md5": "7c77f5cd770f4b067d65dbed05acb1f0"
 		},
 		"res/Lobby/Loading.json": {
-			"md5": "fce6474e7df5977b93c6e99237f263f4"
+			"md5": "fd3940d0bb792c3ad2d841f866af3dd1"
 		},
 		"res/Lobby/Lobby.json": {
-			"md5": "5281cd4051de29141b9d57e6a4958fb0"
+			"md5": "4fd814f2dc4e67ed89360a52f9e3f93c"
 		},
 		"res/Lobby/SettingLayer.json": {
-			"md5": "7c549414c982b63b7687e2540b9d663b"
+			"md5": "3c745e029ba7d1cc59a7880b5a31bbff"
 		},
 		"res/Lobby/settings/bg_setting.png": {
 			"md5": "6178dfdf0363877732504c1189320270"
@@ -3059,7 +3062,7 @@
 			"md5": "01d799ef7f62f3dea99edf9a6a0184ee"
 		},
 		"res/Lobby/ShopLayer.json": {
-			"md5": "f77d40e320b619b46f13ddc955bebee6"
+			"md5": "6dd6d3e3574f1402e1ab3f796d52ab91"
 		},
 		"res/Lobby/vqmm/spin_material.plist": {
 			"md5": "6f46d1f88512a36128f15c0511edfe0d"
@@ -3068,7 +3071,7 @@
 			"md5": "f28a0b790ea96c0a36f3777445d8d3a1"
 		},
 		"res/Lobby/VQMMLayer.json": {
-			"md5": "72e2d5b485de4a904a8cee50ad13cba6"
+			"md5": "8945adc06659eeaa6d8ef7fc94a1b558"
 		},
 		"res/Lobby/Xoayxoay.json": {
 			"md5": "aab3246971cfcba330d6a714d016f672"
@@ -3674,7 +3677,7 @@
 			"md5": "452ada8922119d82ae56bfa02c3bbc14"
 		},
 		"src/Game/Scenes/Layers/Shop.js": {
-			"md5": "601faff3d7203cf302d2c5510ec88295"
+			"md5": "0aca4c0855f14da9b8f7d19d9662f106"
 		},
 		"src/Game/Scenes/Layers/UserInfo.js": {
 			"md5": "fa0afd8f59a3cb4d77325a6b88a7d120"
