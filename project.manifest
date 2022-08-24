@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/hoangnq154/fish_res/main/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/hoangnq154/fish_res/main/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/hoangnq154/fish_res/main/",
-	"version" : "3",
+	"version" : "5",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -3149,7 +3149,7 @@
 			"md5": "22d97665777eaf324b22116257aeda62"
 		},
 		"script/debugger/README.md": {
-			"md5": "eb2123063a3aa5656e6f9204ccc14943"
+			"md5": "dcbff0654e7639ac781a1f18adf0a7a0"
 		},
 		"script/debugger/transport.js": {
 			"md5": "3e0b0537fcd078da4221a645b234a774"
