@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/hoangnq154/fish_res/main/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/hoangnq154/fish_res/main/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/hoangnq154/fish_res/main/",
-	"version" : "5",
+	"version" : "6",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -2747,7 +2747,7 @@
 			"md5": "e57603cb814dec369a8582f2b6569d93"
 		},
 		"res/Game/Shaders/vfs_SkinnedFishes.sc": {
-			"md5": "a0bd8675b4f643d0b4b5468f94bb64b7"
+			"md5": "c9d105118b542d993a7ee22118e07ac8"
 		},
 		"res/Game/Techniques/FishDiffSkinned.tnq": {
 			"md5": "4806250fc3cded56160666fb382a2c58"
@@ -2887,9 +2887,6 @@
 		"res/Lobby/fonts/UTMSwissCondensedBold.ttf": {
 			"md5": "cb756e444c81c3490adfb9e6b540e2f5"
 		},
-		"res/Lobby/Home/avatar/home.png": {
-			"md5": "f6d8c54d6b50604ac17a9f3eea09e6ce"
-		},
 		"res/Lobby/Home/avatar/Rectangle 2.png": {
 			"md5": "d5f3d44ba58420916cc8f0f14d6d5e6f"
 		},
@@ -2913,9 +2910,6 @@
 		},
 		"res/Lobby/Home/Btn/Spin.png": {
 			"md5": "42b15eed322c7495e11e317606579b14"
-		},
-		"res/Lobby/Home/IAP/demo.png": {
-			"md5": "51f38f00092937368b4ece21c816e7a5"
 		},
 		"res/Lobby/Home/IAP/IAP.png": {
 			"md5": "51b109122158e263f478286aa7bf8dc5"
@@ -2977,6 +2971,9 @@
 		"res/Lobby/Home/napIAP/webp copy 2.png": {
 			"md5": "b7e0956b395ce3d96367392879b36e1d"
 		},
+		"res/Lobby/Home/nes.png": {
+			"md5": "44b67b354b39c7bba97c990085860e53"
+		},
 		"res/Lobby/Home/Setting/Checkbox.png": {
 			"md5": "d08a92b1186b513c0efca8fe5fbe4c6d"
 		},
@@ -2985,6 +2982,9 @@
 		},
 		"res/Lobby/Home/Setting/Close.png": {
 			"md5": "f7012cb78519607ca755afa5c118ff5a"
+		},
+		"res/Lobby/Home/Setting/del.png": {
+			"md5": "11279cc4eb28835ac79817acb2cbd9f1"
 		},
 		"res/Lobby/Home/Setting/Group.png": {
 			"md5": "9121b4edbbd0e5885b5e75cc193c3f1e"
@@ -3000,9 +3000,6 @@
 		},
 		"res/Lobby/Home/Setting/Rectangle.png": {
 			"md5": "3ee2d224a28022c8d461ea4842763eb8"
-		},
-		"res/Lobby/Home/Setting/setting.png": {
-			"md5": "de41eb1f046ab87eacc456e571b9fdb5"
 		},
 		"res/Lobby/Home/Splash/BG.png": {
 			"md5": "a6309094795e73d84d4057cbed2ce702"
@@ -3032,13 +3029,13 @@
 			"md5": "7c77f5cd770f4b067d65dbed05acb1f0"
 		},
 		"res/Lobby/Loading.json": {
-			"md5": "36ec5282e5efd0b418f57ded3dd5972d"
+			"md5": "fce6474e7df5977b93c6e99237f263f4"
 		},
 		"res/Lobby/Lobby.json": {
-			"md5": "a4ede9d1f92d242eb545a7ebcbda1561"
+			"md5": "5281cd4051de29141b9d57e6a4958fb0"
 		},
 		"res/Lobby/SettingLayer.json": {
-			"md5": "5a4a8480227bb8bf8cc32e3825f95b0e"
+			"md5": "7c549414c982b63b7687e2540b9d663b"
 		},
 		"res/Lobby/settings/bg_setting.png": {
 			"md5": "6178dfdf0363877732504c1189320270"
@@ -3062,7 +3059,7 @@
 			"md5": "01d799ef7f62f3dea99edf9a6a0184ee"
 		},
 		"res/Lobby/ShopLayer.json": {
-			"md5": "1e4417db711ce1814bb21727e2c5620d"
+			"md5": "f77d40e320b619b46f13ddc955bebee6"
 		},
 		"res/Lobby/vqmm/spin_material.plist": {
 			"md5": "6f46d1f88512a36128f15c0511edfe0d"
@@ -3572,7 +3569,7 @@
 			"md5": "69ac9037a1158b16d042bf7a1183ef4b"
 		},
 		"src/Game/Fish/FishLifeCycle.js": {
-			"md5": "528d85815efeb695739fefca02bcb58d"
+			"md5": "e732dcbb3b1f40c4529ca8d5a7e75f16"
 		},
 		"src/Game/Fish/FishSound.js": {
 			"md5": "6d89cc64e1c28cf1a8e8315dac831bce"
@@ -3644,13 +3641,13 @@
 			"md5": "745e07ce4f6e81dccb58c282556f7251"
 		},
 		"src/Game/Fish/Network/FishCMD.js": {
-			"md5": "77536395a227ad77ff25b1b457ef9bdf"
+			"md5": "6ad7e713b743ba07b44e52dd2d9e97a8"
 		},
 		"src/Game/Fish/Network/FishPacketListener.js": {
 			"md5": "4addf0bbfb948c7c48dcc95f36a4f22c"
 		},
 		"src/Game/Fish/Network/GameClient.js": {
-			"md5": "e0668b71e9d762d892254f9062a80ade"
+			"md5": "555e160b6477d88f1b82d1f0ee72ba6a"
 		},
 		"src/Game/Fish/Network/InPacket.js": {
 			"md5": "a15a6004fa328728d03cf58572482944"
@@ -3671,10 +3668,10 @@
 			"md5": "ac7be087291073c0a1e216b7a9dd1691"
 		},
 		"src/Game/Listeners/LobbyPacketListener.js": {
-			"md5": "8d9585a08b7a1f44779973c3a5d23165"
+			"md5": "8b96f8b92e75d440499fe661ea3f0726"
 		},
 		"src/Game/Scenes/Layers/Setting.js": {
-			"md5": "dec56f09a7ec02fb9bea4a54fd4a7c18"
+			"md5": "452ada8922119d82ae56bfa02c3bbc14"
 		},
 		"src/Game/Scenes/Layers/Shop.js": {
 			"md5": "601faff3d7203cf302d2c5510ec88295"
